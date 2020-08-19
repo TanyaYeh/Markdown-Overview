@@ -177,6 +177,7 @@ ES7(2016年)新增內容:
 - Array.prototype.includes():陣列`includes()`方法，用來判斷一個陣列是否包含一個指定的值，根據情況，如果包含則返回`true`，否則返回`false`
 
 [參考資料4](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/713822/)
+
 [參考資料4-2](https://iter01.com/49959.html)
 
 ### 4.1 IDE VSCode
@@ -365,7 +366,7 @@ Reducer 根據 action 物件和舊資料回傳新資料，因此你可以紀錄 
 
 [參考資料Puppeteer](https://michaelchen.tech/puppeteer/why-or-why-not-puppeteer/)
 
-[[參考資料Headless](https://zh.wikipedia.org/wiki/%E6%97%A0%E5%A4%B4%E6%B5%8F%E8%A7%88%E5%99%A8)]
+[參考資料Headless](https://zh.wikipedia.org/wiki/%E6%97%A0%E5%A4%B4%E6%B5%8F%E8%A7%88%E5%99%A8)]
 
 [參考資料Chai](https://hsueh-jen.gitbooks.io/webcrawler/content/ce-shi-cheng-shi/mocha.html)
 
