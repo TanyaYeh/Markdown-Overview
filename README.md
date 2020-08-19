@@ -366,7 +366,7 @@ Reducer 根據 action 物件和舊資料回傳新資料，因此你可以紀錄 
 
 [參考資料Puppeteer](https://michaelchen.tech/puppeteer/why-or-why-not-puppeteer/)
 
-[參考資料Headless](https://zh.wikipedia.org/wiki/%E6%97%A0%E5%A4%B4%E6%B5%8F%E8%A7%88%E5%99%A8)]
+[參考資料Headless](https://zh.wikipedia.org/wiki/%E6%97%A0%E5%A4%B4%E6%B5%8F%E8%A7%88%E5%99%A8)
 
 [參考資料Chai](https://hsueh-jen.gitbooks.io/webcrawler/content/ce-shi-cheng-shi/mocha.html)
 
