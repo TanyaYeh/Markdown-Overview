@@ -25,6 +25,8 @@
 ***區別:
 著重在檔案的整體性是否有改變，與CVS或Subversion系統則著重在檔案內容的差異。***
 
+[Git的使用筆記](/git-note.md)
+
 ### 1.2. 主要編輯器 VS Code
 
 ### 1.3. 文件語言 Markdown
@@ -90,9 +92,9 @@ Microsoft Visual Stuido 下的一套 coding style 檢查工具，可以協助檢
 
 ```mermaid
 graph TD;
-A[開發人員/建立者] -->B[公用或私人主機];
-B[公用或私人主機] -->C[套件取用者];
-C[套件取用者] -->D[專案];
+   A[開發人員/建立者] -->B[公用或私人主機];
+   B[公用或私人主機] -->C[套件取用者];
+   C[套件取用者] -->D[專案];
 ```
 
 [參考資料3.2](https://docs.microsoft.com/zh-tw/nuget/what-is-nuget)
